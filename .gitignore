@@ -1,0 +1,12 @@
+# Ignorar arquivos compilados
+*.exe
+output/
+
+# Ignorar arquivos temporários e de sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos e pastas do VS Code
+.vscode/
